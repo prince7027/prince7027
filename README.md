@@ -38,16 +38,16 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 ### [PDF Unlocker Web App](https://password-recovery-for-pdf-file.onrender.com) 🗂️
 - A web app to unlock password-protected PDFs using brute-force.
 - Built with Flask and deployed on Render.
-- [Repository](https://github.com/your-repo/pdf-unlocker)
+- [Repository](https://github.com/prince7027/Password-recovery-for-PDF-file)
 
 ### [Price Comparison Website] 💰
 - Python and Flask-based website to compare product prices from different sources.
 - Utilizes BeautifulSoup for web scraping and efficient data handling.
-- [Repository](https://github.com/your-repo/price-comparison)
+- [Repository](https://github.com/prince7027/price-comparison)
 
 ### [Violence Detection with Deep Learning] 🔍
 - A machine learning project utilizing transfer learning techniques for violence detection in videos.
-- [Repository](https://github.com/your-repo/violence-detection)
+- [Repository](https://github.com/prince7027/Violence-Detection)
 
 ---
 
