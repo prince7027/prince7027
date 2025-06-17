@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 - 🌱 **Currently learning**: Advanced Machine Learning, C++, and improving my Flutter skills.
 - 👨‍💻 **Experience**: Proficient in Python, MySQL, Flask, and data structures & algorithms.
 - 🎯 **Focused on**: Building user-friendly applications and exploring the intersection of machine learning and software development.
-- 💡 **Goal**: Transitioning into roles that combine technical expertise with business strategy.
 
 ---
 
@@ -15,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 
 ### Languages:
 - Python
+- Java
 - C++
 - SQL
 - Dart (Flutter)
@@ -25,11 +25,18 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 - Firebase
 - Git & GitHub
 
-### Interests:
+### Specialities:
 - Machine Learning
-- Web Development
+- Deep Learning
 - Chatbot Systems
-- Software Optimization
+- Optimization & Regularization Techniques
+
+### Cloud & Services:
+- GA4
+- BigQuery
+- Kafka
+- Redis
+- MonoDB
 
 ---
 
@@ -55,7 +62,6 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 
 - **Email**: princegarg7027@gmail.com
 - **LinkedIn**: [Prince Garg](https://linkedin.com/in/prince-garg)
-- **Portfolio Website**: [Coming Soon!]
 
 ---
 
