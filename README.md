@@ -61,7 +61,6 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 ## 📬 Connect With Me
 
 - **Email**: princegarg7027@gmail.com
-- **LinkedIn**: [Prince Garg](https://linkedin.com/in/prince-garg)
 
 ---
 
